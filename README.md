@@ -1,4 +1,4 @@
-**Challenge 2**
+**#Challenge 2**
 
 For this challenge, I've tried to query the instance Metadata for Azure resources. Script has been written in PowerShell
 
